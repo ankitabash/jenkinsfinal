@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19" started-at="2017-10-27T02:24:06Z" finished-at="2017-10-27T02:24:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19" started-at="2017-10-27T02:24:06Z" finished-at="2017-10-27T02:24:06Z">
+      <class name="projectoncommandprompt.test2">
+        <test-method status="PASS" signature="help2()" name="help2" duration-ms="0" started-at="2017-10-27T02:24:06Z" finished-at="2017-10-27T02:24:06Z">
+        </test-method>
+      </class>
+      <class name="projectoncommandprompt.test1">
+        <test-method status="PASS" signature="help()" name="help" duration-ms="8" started-at="2017-10-27T02:24:06Z" finished-at="2017-10-27T02:24:06Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
